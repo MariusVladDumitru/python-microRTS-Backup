@@ -1,6 +1,6 @@
 # Useful links for documentation
-[https://pypi.org/project/python-microRTS/](https://pypi.org/project/python-microRTS/)
-[https://douglasrizzo.com.br/python-microRTS/index.html](https://douglasrizzo.com.br/python-microRTS/index.html)
+[https://pypi.org/project/python-microRTS/](https://pypi.org/project/python-microRTS/)  
+[https://douglasrizzo.com.br/python-microRTS/index.html](https://douglasrizzo.com.br/python-microRTS/index.html)  
 
 
 # python-microRTS
